@@ -294,9 +294,19 @@ table {
   background-image: url('../icons/github/github-64.png');
 }
 
+.si-github:focus, 
+.si-github:hover {
+  background-color: #689cd0;
+}
+
 .si-tumblr {
   background-color: #2c4762;
   background-image: url('../icons/tumblr/tumblr-64.png');
+}
+
+.si-tumblr:focus,
+.si-tumblr:hover {
+  background-color: #3c6085;
 }
 
 .si-rdio {
@@ -304,9 +314,19 @@ table {
   background-image: url('../icons/rdio/rdio-64.png');
 }
 
+.si-rdio:focus,
+.si-rdio:hover {
+  background-color: #0688ff;
+}
+
 .si-disqus {
   background-color: #2e9fff;
   background-image: url('../icons/disqus/disqus-64.png');
+}
+
+.si-disqus:focus,
+.si-disqus:hover {
+  background-color: #61b6ff;
 }
 
 .si-dropbox {
@@ -314,9 +334,19 @@ table {
   background-image: url('../icons/dropbox/dropbox-64.png');
 }
 
+.si-dropbox:focus,
+.si-dropbox:hover {
+  background-color: #449ae0;
+}
+
 .si-coderwall {
   background-color: #3e8dcc;
   background-image: url('../icons/coderwall/coderwall-64.png');
+}
+
+.si-coderwall:focus,
+.si-coderwall:hover {
+  background-color: #66a5d7;
 }
 
 .si-instagram {
@@ -324,9 +354,19 @@ table {
   background-image: url('../icons/instagram/instagram-64.png');
 }
 
+.si-instagram:focus,
+.si-instagram:hover {
+  background-color: #548cb9;
+}
+
 .si-jsfiddle {
   background-color: #4679a4;
   background-image: url('../icons/jsfiddle/jsfiddle-64.png');
+}
+
+.si-jsfiddle:focus,
+.si-jsfiddle:hover {
+  background-color: #6192bc;
 }
 
 .si-outlook {
@@ -334,9 +374,19 @@ table {
   background-image: url('../icons/outlook/outlook-64.png');
 }
 
+.si-outlook:focus,
+.si-outlook:hover {
+  background-color: #008ff9;
+}
+
 .si-w3c {
   background-color: #0066b0;
   background-image: url('../icons/w3c/w3c-64.png');
+}
+
+.si-w3c:focus,
+.si-w3c:hover {
+  background-color: #0084e3;
 }
 
 .si-jquery {
@@ -344,9 +394,19 @@ table {
   background-image: url('../icons/jquery/jquery-64.png');
 }
 
+.si-jquery:focus,
+.si-jquery:hover {
+  background-color: #0a84dc;
+}
+
 .si-coursera {
   background-color: #3a6d8e;
   background-image: url('../icons/coursera/coursera-64.png');
+}
+
+.si-coursera:hover, 
+.si-coursera:focus {
+  background-color: #4989b2;
 }
 
 .si-exfm {
@@ -354,9 +414,19 @@ table {
   background-image: url('../icons/exfm/exfm-64.png');
 }
 
+.si-exfm:hover, 
+.si-exfm:focus {
+  background-color: #2cacff;
+}
+
 .si-conservatives {
   background-color: #0087dc;
   background-image: url('../icons/conservatives/conservatives-64.png');
+}
+
+.si-conservatives:hover,
+.si-conservatives:focus {
+  background-color: #10a3ff;
 }
 
 .si-drupal {
@@ -364,420 +434,1041 @@ table {
   background-image: url('../icons/drupal/drupal-64.png');
 }
 
+.si-drupal:focus,
+.si-drupal:hover {
+  background-color: #0097f3;
+}
+
 .si-formspring {
   background-color: #0076c0;
   background-image: url('../icons/formspring/formspring-64.png');
+}
+
+.si-formspring:hover,
+.si-formspring:focus {
+  background-color: #0095f3;
 }
 
 .si-readmill {
   background-color: #052336;
   background-image: url('../icons/readmill/readmill-64.png');
 }
+
+.si-readmill:focus, 
+.si-readmill:hover {
+  background-color: #094165;
+}
+
 .si-vimeo {
   background-color: #4bf;
   background-image: url('../icons/vimeo/vimeo-64.png');
 }
+
+.si-vimeo:focus, 
+.si-vimeo:hover {
+  background-color: #77ceff;
+}
+
 .si-myspace {
   background-color: #008dde;
   background-image: url('../icons/myspace/myspace-64.png');
 }
+
+.si-myspace:focus,
+.si-myspace:hover {
+  background-color: #12a9ff;
+}
+
 .si-bootstrap {
   background-color: #08c;
   background-image: url('../icons/bootstrap/bootstrap-64.png');
 }
+
+.si-bootstrap:focus,
+.si-bootstrap:hover {
+  background-color: #00aaff;
+}
+
 .si-codecademy {
   background-color: #08c;
   background-image: url('../icons/codecademy/codecademy-64.png');
 }
+
+.si-codecademy:focus,
+.si-codecademy:hover {
+  background-color: #00aaff;
+}
+
 .si-aboutme {
   background-color: #00405d;
   background-image: url('../icons/aboutme/aboutme-64.png');
 }
+
+.si-aboutme:focus,
+.si-aboutme:hover {
+  background-color: #006390;
+}
+
 .si-gravatar {
   background-color: #1e8cbe;
   background-image: url('../icons/gravatar/gravatar-64.png');
 }
+
+.si-gravatar:focus, 
+.si-gravatar:hover {
+  background-color: #31a8de;
+}
+
 .si-wordpress {
   background-color: #21759b;
   background-image: url('../icons/wordpress/wordpress-64.png');
 }
+
+.si-wordpress:hover,
+.si-wordpress:focus {
+  background-color: #2a95c5;
+}
+
 .si-superuser {
   background-color: #2dabe2;
   background-image: url('../icons/superuser/superuser-64.png');
 }
+
+.si-superuser:focus, 
+.si-superuser:hover {
+  background-color: #5abde8;
+}
+
 .si-foursquare {
   background-color: #2398c9;
   background-image: url('../icons/foursquare/foursquare-64.png');
 }
+
+.si-foursquare:focus,
+.si-foursquare:hover {
+  background-color: #41b0de;
+}
+
 .si-linkedin {
   background-color: #007fb1;
   background-image: url('../icons/linkedin/linkedin-64.png');
 }
+
+.si-linkedin:focus,
+.si-linkedin:hover {
+  background-color: #00a4e4;
+}
+
 .si-skype {
   background-color: #00aff0;
   background-image: url('../icons/skype/skype-64.png');
 }
+
+.si-skype:focus,
+.si-skype:hover {
+  background-color: #24c4ff;
+}
+
 .si-twitter {
   background-color: #00aced;
   background-image: url('../icons/twitter/twitter-64.png');
 }
+
+.si-twitter:focus,
+.si-twitter:hover {
+  background-color: #21c2ff;
+}
+
 .si-protoio {
   background-color: #40c8f4;
   background-image: url('../icons/protoio/protoio-64.png');
 }
+
+.si-protoio:focus,
+.si-protoio:hover {
+  background-color: #70d6f7;
+}
+
 .si-windows {
   background-color: #00bdf6;
   background-image: url('../icons/windows/windows-64.png');
 }
+
+.si-windows:focus,
+.si-windows:hover {
+  background-color: #2aceff;
+}
+
 .si-css3 {
   background-color: #0092bf;
   background-image: url('../icons/css3/css3-64.png');
 }
+
+.si-css3:focus,
+.si-css3:hover {
+  background-color: #00b9f2;
+}
+
 .si-mysql {
   background-color: #007597;
   background-image: url('../icons/mysql/mysql-64.png');
 }
+
+.si-mysql:focus,
+.si-mysql:hover {
+  background-color: #009dca;
+}
+
 .si-xing {
   background-color: #006567;
   background-image: url('../icons/xing/xing-64.png');
 }
+
+.si-xing:focus,
+.si-xing:hover {
+  background-color: #00979a;
+}
+
 .si-slideshare {
   background-color: #099;
   background-image: url('../icons/slideshare/slideshare-64.png');
 }
+
+.si-slideshare:focus,
+.si-slideshare:hover {
+  background-color: #00cccc;
+}
+
 .si-pingup {
   background-color: #00b1ab;
   background-image: url('../icons/pingup/pingup-64.png');
 }
+
+.si-pingup:focus,
+.si-pingup:hover {
+  background-color: #00e4dc;
+}
+
 .si-layervault {
   background-color: #26ae90;
   background-image: url('../icons/layervault/layervault-64.png');
 }
+
+.si-layervault:focus,
+.si-layervault:hover {
+  background-color: #34d3b0;
+}
+
 .si-vine {
   background-color: #00a47a;
   background-image: url('../icons/vine/vine-64.png');
 }
+
+.si-vine:focus,
+.si-vine:hover {
+  background-color: #00d7a0;
+}
+
 .si-newsvine {
   background-color: #075b2f;
   background-image: url('../icons/newsvine/newsvine-64.png');
 }
+
+.si-newsvine:hover,
+.si-newsvine:focus {
+  background-color: #0b8a47;
+}
+
 .si-forrst {
   background-color: #5b9a68;
   background-image: url('../icons/forrst/forrst-64.png');
 }
+
+.si-forrst:hover,
+.si-forrst:focus {
+  background-color: #78b084;
+}
+
 .si-xbox {
   background-color: #107c10;
   background-image: url('../icons/xbox/xbox-64.png');
 }
+
+.si-xbox:focus,
+.si-xbox:hover {
+  background-color: #16a916;
+}
+
 .si-whatsapp {
   background-color: #64d448;
   background-image: url('../icons/whatsapp/whatsapp-64.png');
 }
+
+.si-whatsapp:focus,
+.si-whatsapp:hover {
+  background-color: #87de71;
+}
+
 .si-basecamp {
   background-color: #66ad4e;
   background-image: url('../icons/basecamp/basecamp-64.png');
 }
+
+.si-basecamp:hover, 
+.si-basecamp:focus {
+  background-color: #84be70;
+}
+
 .si-tripadvisor {
   background-color: #589442;
   background-image: url('../icons/tripadvisor/tripadvisor-64.png');
 }
+
+.si-tripadvisor:focus,
+.si-tripadvisor:hover {
+  background-color: #6fb356; 
+}
+
 .si-envato {
   background-color: #528036;
   background-image: url('../icons/envato/envato-64.png');
 }
+
+.si-envato:focus, 
+.si-envato:hover {
+  background-color: #69a445;
+}
+
 .si-evernote {
   background-color: #6bb130;
   background-image: url('../icons/evernote/evernote-64.png');
 }
+
+.si-evernote:focus,
+.si-evernote:hover {
+  background-color: #84cd47;
+}
+
 .si-kik {
   background-color: #87c541;
   background-image: url('../icons/kik/kik-64.png');
 }
+
+.si-kik:focus,
+.si-kik:hover {
+  background-color: #a0d168;
+}
+
 .si-kickstarter {
   background-color: #87c442;
   background-image: url('../icons/kickstarter/kickstarter-64.png');
 }
+
+.si-kickstarter:hover, 
+.si-kickstarter:focus {
+  background-color: #a0d069;
+}
+
 .si-zerply {
   background-color: #9dbc7a;
   background-image: url('../icons/zerply/zerply-64.png');
 }
+
+.si-zerply:focus,
+.si-zerply:hover {
+  background-color: #b6cd9c; 
+}
+
 .si-geeklist {
   background-color: #8cc63e;
   background-image: url('../icons/geeklist/geeklist-64.png');
 }
+
+.si-geeklist:hover, 
+.si-geeklist:focus {
+  background-color: #a3d265; 
+}
+
 .si-treehouse {
   background-color: #7fa24c;
   background-image: url('../icons/treehouse/treehouse-64.png');
 }
+
+.si-treehouse:focus, 
+.si-treehouse:hover {
+  background-color: #98b869;
+}
+
 .si-eventstore {
   background-color: #6ba300;
   background-image: url('../icons/eventstore/eventstore-64.png');
 }
+
+.si-eventstore:hover, 
+.si-eventstore:focus {
+  background-color: #8cd600;
+}
+
 .si-spotify {
   background-color: #80b719;
   background-image: url('../icons/spotify/spotify-64.png');
 }
+
+.si-spotify:focus, 
+.si-spotify:hover {
+  background-color: #9ee122;
+}
+
 .si-microformats {
   background-color: #8cc319;
   background-image: url('../icons/microformats/microformats-64.png');
 }
+
+.si-microformats:focus, 
+.si-microformats:hover {
+  background-color: #a8e42b;
+}
+
 .si-android {
   background-color: #a4c639;
   background-image: url('../icons/android/android-64.png');
 }
+
+.si-android:focus, 
+.si-android:hover {
+  background-color: #b6d161;
+}
+
 .si-khanacademy {
   background-color: #9db63b;
   background-image: url('../icons/khanacademy/khanacademy-64.png');
 }
+
+.si-khanacademy:focus, 
+.si-khanacademy:hover {
+  background-color: #b3ca5a;
+}
+
 .si-aim {
   background-color: #f2d523;
   background-image: url('../icons/aim/aim-64.png');
 }
+
+.si-aim:focus, 
+.si-aim:hover {
+  background-color: #f5de53;
+}
+
 .si-imdb {
   background-color: #f3ce00;
   background-image: url('../icons/imdb/imdb-64.png');
 }
+
+.si-imdb:focus, 
+.si-imdb:hover {
+  background-color: #ffde27;
+}
+
 .si-goodreads {
   background-color: #5a471b;
   background-image: url('../icons/goodreads/goodreads-64.png');
 }
+
+.si-goodreads:hover, 
+.si-goodreads:focus {
+  background-color: #816627;
+}
+
 .si-liberaldemocrats {
   background-color: #f7b135;
   background-image: url('../icons/liberaldemocrats/liberaldemocrats-64.png');
 }
+
+.si-liberaldemocrats:focus, 
+.si-liberaldemocrats:hover {
+  background-color: #f9c466;
+}
+
 .si-aws {
   background-color: #f90;
   background-image: url('../icons/aws/aws-64.png');
 }
+
+.si-aws:focus,
+.si-aws:hover {
+  background-color: #ffad33;
+}
+
 .si-amazon {
   background-color: #f90;
   background-image: url('../icons/amazon/amazon-64.png');
 }
+
+.si-amazon:focus, 
+.si-amazon:hover {
+  background-color: #ffad33
+}
+
 .si-amazonwishlist {
   background-color: #f90;
   background-image: url('../icons/amazonwishlist/amazonwishlist-64.png');
 }
+
+.si-amazonwishlist:focus,
+.si-amazonwishlist:hover {
+  background-color: #ffad33;
+}
+
 .si-jqueryui {
   background-color: #fea620;
   background-image: url('../icons/jqueryui/jqueryui-64.png');
 }
+
+.si-jqueryui:hover, 
+.si-jqueryui:focus {
+  background-color: #feba53;
+}
+
 .si-viadeo {
   background-color: #f4982b;
   background-image: url('../icons/viadeo/viadeo-64.png');
 }
+
+.si-viadeo:focus,
+.si-viadeo:hover {
+  background-color: #f7b05b;
+}
+
 .si-typo3 {
   background-color: #ff8700;
   background-image: url('../icons/typo3/typo3-64.png');
 }
+
+.si-typo3:focus, 
+.si-typo3:hover {
+  background-color: #ff9f33;
+}
+
 .si-rss {
   background-color: #ff8300;
   background-image: url('../icons/rss/rss-64.png');
 }
+
+.si-rss:hover, 
+.si-rss:focus {
+  background-color: #ff9c33; 
+}
+
 .si-blogger {
   background-color: #f57d00;
   background-image: url('../icons/blogger/blogger-64.png');
 }
+
+.si-blogger:focus, 
+.si-blogger:hover {
+  background-color: #ff9629;
+}
+
 .si-codeschool {
   background-color: #c68044;
   background-image: url('../icons/codeschool/codeschool-64.png');
 }
+
+.si-codeschool:hover, 
+.si-codeschool:focus {
+  background-color: #d29b6b;
+}
+
 .si-flattr {
   background-color: #f67c1a;
   background-image: url('../icons/flattr/flattr-64.png');
 }
+
+.si-flattr:focus,
+.si-flattr:hover {
+  background-color: #f8984b;
+}
+
 .si-stackoverflow {
   background-color: #f47920;
   background-image: url('../icons/stackoverflow/stackoverflow-64.png');
 }
+
+.si-stackoverflow:focus, 
+.si-stackoverflow:hover {
+  background-color: #f69651; 
+}
+
 .si-hackernews {
   background-color: #f60;
   background-image: url('../icons/hackernews/hackernews-64.png');
 }
+
+.si-hackernews:focus, 
+.si-hackernews:hover {
+  background-color: #ff8533;
+}
+
 .si-soundcloud {
   background-color: #f60;
   background-image: url('../icons/soundcloud/soundcloud-64.png');
 }
+
+.si-soundcloud:focus, 
+.si-soundcloud:hover {
+  background-color: #ff8533;
+}
+
 .si-eventbrite {
   background-color: #f3844c;
   background-image: url('../icons/eventbrite/eventbrite-64.png');
 }
+
+.si-eventbrite:focus, 
+.si-eventbrite:hover {
+  background-color: #f6a57c;
+}
+
 .si-coderbits {
   background-color: #f16522;
   background-image: url('../icons/coderbits/coderbits-64.png');
 }
+
+.si-coderbits:focus, 
+.si-coderbits:hover {
+  background-color: #f48652;
+}
+
 .si-html5 {
   background-color: #f06529;
   background-image: url('../icons/html5/html5-64.png');
 }
+
+.si-html5:focus,
+.si-html5:hover {
+  background-color: #f38759;
+}
+
 .si-reddit {
   background-color: #ff4500;
   background-image: url('../icons/reddit/reddit-64.png');
 }
+
+.si-reddit:focus,
+.si-reddit:hover {
+  background-color: #ff6a33; 
+}
+
 .si-office {
   background-color: #eb3c00;
   background-image: url('../icons/office/office-64.png');
 }
+
+.si-office:hover, 
+.si-office:focus {
+  background-color: #ff581f;
+}
+
 .si-smashingmagazine {
   background-color: #e95c33;
   background-image: url('../icons/smashingmagazine/smashingmagazine-64.png');
 }
+
+.si-smashingmagazine:focus, 
+.si-smashingmagazine:hover {
+  background-color: #ee8161;
+}
+
 .si-quora {
   background-color: #a82400;
   background-image: url('../icons/quora/quora-64.png');
 }
+
+.si-quora:focus,
+.si-quora:hover {
+  background-color: #db2f00;
+}
+
 .si-klout {
   background-color: #e24a25;
   background-image: url('../icons/klout/klout-64.png');
 }
+
+.si-klout:focus,
+.si-klout:hover {
+  background-color: #e86f52;
+}
+
 .si-laravel {
   background-color: #fb502b;
   background-image: url('../icons/laravel/laravel-64.png');
 }
+
+.si-laravel:focus,
+.si-laravel:hover {
+  background-color: #fc795d;
+}
+
 .si-jsdb {
   background-color: #da320b;
   background-image: url('../icons/jsdb/jsdb-64.png');
 }
+
+.si-jsdb:hover, 
+.si-jsdb:focus {
+  background-color: #f44b24;
+}
+
 .si-stumbleupon {
   background-color: #eb4924;
   background-image: url('../icons/stumbleupon/stumbleupon-64.png');
 }
+
+.si-stumbleupon:focus, 
+.si-stumbleupon:hover {
+  background-color: #ef7053;
+}
+
 .si-ted {
   background-color: #ff2b06;
   background-image: url('../icons/ted/ted-64.png');
 }
+
+.si-ted:hover, 
+.si-ted:focus {
+  background-color: #ff5639;
+}
+
 .si-yelp {
   background-color: #c93c27;
   background-image: url('../icons/yelp/yelp-64.png');
 }
+
+.si-yelp:focus,
+.si-yelp:hover {
+  background-color: #db5b48;
+}
+
 .si-gmail {
   background-color: #dd4b39;
   background-image: url('../icons/gmail/gmail-64.png');
 }
+
+.si-gmail:focus, 
+.si-gmail:hover {
+  background-color: #e47365;
+}
+
 .si-googleplus {
   background-color: #d14836;
   background-image: url('../icons/googleplus/googleplus-64.png');
 }
+
+.si-googleplus:focus,
+.si-googleplus:hover {
+  background-color: #da6e60; 
+}
+
 .si-path {
   background-color: #e41f11;
   background-image: url('../icons/path/path-64.png');
 }
+ 
+.si-path:focus,
+.si-path:hover {
+  background-color: #f04438;
+}
+
 .si-lastfm {
   background-color: #d51007;
   background-image: url('../icons/lastfm/lastfm-64.png');
 }
+
+.si-lastfm:focus,
+.si-lastfm:hover {
+  background-color: #f72118;
+}
+
 .si-youtube {
   background-color: #cd332d;
   background-image: url('../icons/youtube/youtube-64.png');
 }
+
+.si-youtube:focus, 
+.si-youtube:hover {
+  background-color: #d95954;
+}
+
 .si-blip {
   background-color: #ff1919;
   background-image: url('../icons/blip/blip-64.png');
 }
+
+.si-blip:focus,
+.si-blip:hover {
+  background-color: #ff4c4c;
+}
+
 .si-readability {
   background-color: #870000;
   background-image: url('../icons/readability/readability-64.png');
 }
+
+.si-readability:focus,
+.si-readability:hover {
+  background-color: #ba0000;
+}
+
 .si-bebo {
   background-color: #ee1010;
   background-image: url('../icons/bebo/bebo-64.png');
 }
+
+.si-bebo:hover, 
+.si-bebo:focus {
+  background-color: #f23f3f;
+}
+
 .si-pinterest {
   background-color: #cb2027;
   background-image: url('../icons/pinterest/pinterest-64.png');
 }
+
+.si-pinterest:hover, 
+.si-pinterest:focus {
+  background-color: #e03e44;
+} 
+
 .si-mendeley {
   background-color: #b61f2f;
   background-image: url('../icons/mendeley/mendeley-64.png');
 }
+
+.si-mendeley:focus,
+.si-mendeley:hover {
+  background-color: #db2d3f;
+}
+
 .si-rails {
   background-color: #a62c39;
   background-image: url('../icons/rails/rails-64.png');
 }
+
+.si-rails:focus, 
+.si-rails:hover {
+  background-color: #cb3a4a;
+}
+
 .si-sinaweibo {
   background-color: #e6162d;
   background-image: url('../icons/sinaweibo/sinaweibo-64.png');
 }
+
+.si-sinaweibo:focus, 
+.si-sinaweibo:hover {
+  background-color: #ed4255;
+}
+
 .si-pocket {
   background-color: #ef4056;
   background-image: url('../icons/pocket/pocket-64.png');
 }
+
+.si-pocket:hover,
+.si-pocket:focus {
+  background-color: #f36f80;
+}
+
 .si-labour {
   background-color: #c41230;
   background-image: url('../icons/labour/labour-64.png');
 }
+
+.si-labour:focus, 
+.si-labout:hover {
+  background-color: #ea1f41;
+}
+
 .si-dribbble {
   background-color: #ea4c89;
   background-image: url('../icons/dribbble/dribbble-64.png');
 }
+
+.si-dribble:focus,
+.si-dribble:hover {
+  background-color: #ef7aa7;
+}
+
 .si-modernizr {
   background-color: #d81a76;
   background-image: url('../icons/modernizr/modernizr-64.png');
 }
+
+.si-modernizr:focus,
+.si-modernizr:hover {
+  background-color: #e83d90;
+}
+
 .si-orkut {
   background-color: #ed2590;
   background-image: url('../icons/orkut/orkut-64.png');
 }
+
+.si-orkut:focus,
+.si-orkut:hover {
+  background-color: #f154a8;
+}
+
 .si-audioboo {
   background-color: #ae006e;
   background-image: url('../icons/audioboo/audioboo-64.png');
 }
+
+.si-audioboo:hover, 
+.si-audioboo:focus {
+  background-color: #e1008e;
+}
+
 .si-justgiving {
   background-color: #78256d;
   background-image: url('../icons/justgiving/justgiving-64.png');
 }
+
+.si-justgiving:hover, 
+.si-justgiving:focus {
+  background-color: #9f3190;
+}
+
 .si-visualstudio {
   background-color: #68217a;
   background-image: url('../icons/visualstudio/visualstudio-64.png');
 }
+
+.si-visualstudio:hover,
+.si-visualstudio:focus {
+  background-color: #8a2ca2;
+}
+
 .si-yahoo {
   background-color: #731a8b;
   background-image: url('../icons/yahoo/yahoo-64.png');
 }
+
+.si-yahoo:focus,
+.si-yahoo:hover {
+  background-color: #9722b6;
+}
+
 .si-twitch {
   background-color: #6441a5;
   background-image: url('../icons/twitch/twitch-64.png');
 }
+
+.si-twitch:focus, 
+.si-twitch:hover {
+  background-color: #7e5bbe;
+}
+
 .si-heroku {
   background-color: #6762a6;
   background-image: url('../icons/heroku/heroku-64.png');
 }
+
+.si-heroku:focus,
+.si-heroku:hover {
+  background-color: #8783b8;
+}
+
 .si-appdotnet {
   background-color: #898d90;
   background-image: url('../icons/appdotnet/appdotnet-64.png');
 }
+
+.si-appdotnet:focus, 
+.si-appdotnet:hover {
+  background-color: #a3a6a9;
+}
+
 .si-apple {
   background-color: #b9bfc1;
   background-image: url('../icons/apple/apple-64.png');
 }
+
+.si-apple:hover,
+.si-apple:focus {
+  background-color: #d4d8d9;
+}
+
 .si-picasa {
   background-color: #4b5d5f;
   background-image: url('../icons/picasa/picasa-64.png');
 }
+
+.si-picasa:hover,
+.si-picase:focus {
+  background-color: #62797c;
+}
+
 .si-deviantart {
   background-color: #4b5d50;
   background-image: url('../icons/deviantart/deviantart-64.png');
 }
+
+.si-deviantart:focus, 
+.si-deviantart:hover {
+  background-color: #627968;
+}
+
 .si-500px {
   background-color: #444;
   background-image: url('../icons/500px/500px-64.png');
 }
+
+.si-500px:focus,
+.si-500px:hover {
+  background-color: #5e5e5e;
+}
+
 .si-alistapart {
   background-color: #222;
   background-image: url('../icons/alistapart/alistapart-64.png');
 }
+
+.si-alistapart:focus,
+.si-alistapart:hover {
+  background-color: #3c3c3c; 
+}
+
 .si-trakt {
   background-color: #222;
   background-image: url(../icons/trakt/trakt-64.png);
+}
+
+.si-trakt:focus,
+.si-trakt:hover {
+  background-color: #3c3c3c;
 }
 
 .si-angellist {
   background-color: #000;
   background-image: url('../icons/angellist/angellist-64.png');
 }
+
+.si-angellist:focus, 
+.si-angellist:hover {
+  background-color: #1a1a1a;
+}
+
 .si-grooveshark {
   background-color: #000;
   background-image: url('../icons/grooveshark/grooveshark-64.png');
 }
+
+.si-grooveshark:focus, 
+.si-grooveshark:hover {
+  background-color: #1a1a1a;
+}
+
 .si-mediatemple {
   background-color: #000;
   background-image: url('../icons/mediatemple/mediatemple-64.png');
@@ -822,65 +1513,134 @@ table {
   background-color: #231f20;
   background-image: url(../icons/codepen/codepen-64.png);
 }
+
+.si-codepen:focus, 
+.si-codepen:hover {
+  background-color: #3e3739;
+}
+
 .si-govuk {
   background-color: #231f20;
   background-image: url(../icons/govuk/govuk-64.png);
 }
+
+.si-govuk:focus, 
+.si-govuk:hover {
+  background-color: #3e3739;
+}
+
+.si-paypal {
+  background-color: #019cde;
+  background-image:url('../icons/paypal/paypal-64.png');
+}
+
+.si-paypal:hover, 
+.si-paypal:hover {
+  background-color: #14b8fe;
+}
+
+.si-verisign {
+  background-color: #ffd230;
+  background-image:url('../icons/verisign/verisign-64.png');
+}
+
+.si-verisign:hover, 
+.si-verisign:focus {
+  background-color: #ffdd63;
+}
+
+.si-netlog {
+  background-color: #c00;
+  background-image:url('../icons/netlog/netlog-64.png');
+}
+
+.si-netlog:focus,
+.si-netlog:hover {
+  background-color: #ff0000;
+}
+
+.si-bitly {
+  background-color: #e94b05;
+  background-image:url('../icons/bitly/bitly-64.png');
+}
+
+.si-bitly:focus, 
+.si-bitly:hover {
+  background-color: #ee6123;
+}
+
 @-webkit-keyframes download-flasher {
   0% {
     color: #797979
   }
+  
   50% {
     color: #444140
   }
+  
   100% {
     color: #797979
   }
+  
 }
 @-moz-keyframes download-flasher {
   0% {
     color: #797979
   }
+  
   50% {
     color: #444140
   }
+  
   100% {
     color: #797979
   }
+  
 }
+
 @-o-keyframes download-flasher {
   0% {
     color: #797979
   }
+  
   50% {
     color: #444140
   }
+  
   100% {
     color: #797979
   }
+  
 }
+
 @keyframes download-flasher {
   0% {
     color: #797979
   }
+  
   50% {
     color: #444140
   }
+  
   100% {
     color: #797979
   }
+  
 }
+
 .clearfix:after {
   content: "";
   display: table;
   clear: both
 }
+
 body {
   background: #f0f2f4;
   color: #444140;
   font: 400 normal 15pt/1.5"Helvetica Neue", Helvetica, Arial, sans-serif;
   font-rendering: optimizeLegibility
 }
+
 a {
   color: #d0d2d4;
   text-decoration: none;
@@ -889,6 +1649,7 @@ a {
   -o-transition: all .1s linear;
   transition: all .1s linear
 }
+
 a:hover,
 a:focus {
   color: #444140!important;
@@ -897,35 +1658,43 @@ a:focus {
   -o-animation: none!important;
   animation: none!important
 }
+
 .container {
   width: 1174px;
   margin: 0 auto
 }
+
 .header {
   padding: 1.5em 0;
   border-bottom: 1px solid #d0d2d4
 }
+
 .header:after {
   content: "";
   display: table;
   clear: both
 }
+
 .header h1 {
   float: left;
   font-weight: bold;
   text-transform: uppercase
 }
+
 .header ul.options {
   float: right
 }
+
 .header ul.options li {
   display: inline
 }
+
 .header ul.options li a {
   display: inline-block;
   margin: 0 0 0 1em;
   font-size: .75em
 }
+
 .header ul.options li a.download {
   color: #797979;
   -webkit-animation: download-flasher 1.5s infinite;
@@ -933,20 +1702,24 @@ a:focus {
   -o-animation: download-flasher 1.5s infinite;
   animation: download-flasher 1.5s infinite
 }
+
 .icons {
   margin: 0 -5px;
   padding: 1.5em 0;
   border-bottom: 1px solid #d0d2d4
 }
+
 .icons:after {
   content: "";
   display: table;
   clear: both
 }
+
 .icons li {
   float: left;
   display: inline-block
 }
+
 .icons li a {
   display: inline-block;
   height: 64px;
@@ -958,29 +1731,35 @@ a:focus {
   text-indent: -9999em;
   border-radius: 25%;
 }
+
 .colour-table {
   width: 878px;
   margin: 3em auto;
   font-size: .75em
 }
+
 .colour-table th {
   padding: 0 0 1em;
   text-align: left;
   font-weight: 700
 }
+
 .colour-table td {
   padding: .5em 0;
   border-top: 1px solid #d0d2d4;
   color: #797979
 }
+
 .colour-table tr:hover td,
 .colour-table tr:focus td {
   color: #444140
 }
+
 .colour-value {
   font-family: monaco, menlo, "Courier New", Courier, monospace;
   font-weight: 700
 }
+
 .footer {
   padding: 1.5em 0;
   border-top: 1px solid #d0d2d4;
@@ -988,39 +1767,50 @@ a:focus {
   font-size: .75em;
   text-align: center
 }
+
 .footer a {
   color: #797979
 }
+
 @media screen and (max-width: 1234px),
 screen and (max-device-width: 1234px) {
   .container {
     width: 878px
   }
+  
 }
+
 @media screen and (max-width: 938px),
 screen and (max-device-width: 938px) and (orientation: portrait) {
   .container {
     width: 582px
   }
+  
   .colour-table {
     width: 100%
   }
+  
   .hideable {
     display: none
   }
+  
 }
+
 @media screen and (max-width: 642px),
 screen and (max-device-width: 642px) {
   .container {
     width: 286px
   }
+  
   .colour-table th:nth-child(3),
   .colour-table th:nth-child(4),
   .colour-table td:nth-child(3),
   .colour-table td:nth-child(4) {
     display: none
   }
+  
   .ultra-hideable {
     display: none
   }
+  
 }
